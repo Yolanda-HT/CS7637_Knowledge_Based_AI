@@ -1,0 +1,19 @@
+# Ignore homework solution related files
+Tricky_questions.md
+/Homework/*
+/Projects/*
+
+# Mac generated resource fork files
+._*
+~$*
+*DS_Store
+*Icon?*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache & data
+/cache/
+/*_cache/

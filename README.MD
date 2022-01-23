@@ -15,6 +15,13 @@
 - [Artificial Intelligence (Elaine Rich & Kevin Knight)](https://www.amazon.com/Artificial-Intelligence-Elaine-Rich/dp/0070522634)
 - [Artificial Intelligence: A Modern Approach (Stuart Russell & Peter Norvig)](http://aima.cs.berkeley.edu/)
 
+# Dues
+- Jan 17 8:00AM, Start-of-course Survey
+- **CURRENT: June 24 8:00AM, RPM Milestone 1**
+	- [Gradescope (Codes)](https://www.gradescope.com/courses/350049)
+	- [Written Asssignment (JDF)](https://gatech.instructure.com/courses/234528/assignments)
+
+
 # RPM Project (Raven’s Progressive Matrices)
 [Project overview](https://lucylabs.gatech.edu/kbai/spring-2022/milestone-1/)
 - [Milestone 1](https://lucylabs.gatech.edu/kbai/spring-2022/milestone-1/)
@@ -33,6 +40,23 @@
 	- Sets D and E. The goal of this milestone is to ensure you have looked at all four sets before the final project deadline, so that you may spend the last portion of the semester refining, improving, and writing your final report. 
 	- As long as your agent can answer 10 (out of 24) Basic D & E and 10 (out of 24) Test D & E problems, you will receive full performance credit.
 - [Final Project](https://lucylabs.gatech.edu/kbai/spring-2022/final-project)
+
+# Mini Project
+- [Mini-Project 1: Sheep & Wolves]()
+- [Mini-Project 2: Block World]()
+- [Mini-Project 3: Secntence Reading]()
+- [Mini-Project 4: Monster Identification]()
+- [Mini-Project 5: Monster Diagnosis]()
+
+# Homework
+- [Homework 1]()
+- [Homework 2]()
+- [Homework 3]()
+- [Homework 4]()
+
+# Exams
+- [Exam 1]
+- [Exam 2]
 
 # Grading policy
 | Group | Weight |

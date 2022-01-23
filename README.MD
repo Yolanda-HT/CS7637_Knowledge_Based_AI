@@ -17,7 +17,7 @@
 
 # Dues
 - Jan 17 8:00AM, Start-of-course Survey
-- **CURRENT: June 24 8:00AM, RPM Milestone 1**
+- **>>>CURRENT<<<**: June 24 8:00AM, RPM Milestone 1
 	- [Gradescope (Codes)](https://www.gradescope.com/courses/350049)
 	- [Written Asssignment (JDF)](https://gatech.instructure.com/courses/234528/assignments)
 

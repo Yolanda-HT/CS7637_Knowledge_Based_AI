@@ -1,8 +1,10 @@
 # Ignore homework solution related files
 Tricky_questions.md
+/x_Assignments/*
+/x_Projects/*
+/CS7637_Lectures/*
 /Homework/*
 /Projects/*
-/CS7637_Lectures/*
 
 # Mac generated resource fork files
 ._*

@@ -42,17 +42,17 @@
 - [Final Project](https://lucylabs.gatech.edu/kbai/spring-2022/final-project)
 
 # Mini Project
-- [Mini-Project 1: Sheep & Wolves]()
-- [Mini-Project 2: Block World]()
-- [Mini-Project 3: Secntence Reading]()
-- [Mini-Project 4: Monster Identification]()
-- [Mini-Project 5: Monster Diagnosis]()
+- [Mini-Project 1: Sheep & Wolves]
+- [Mini-Project 2: Block World]
+- [Mini-Project 3: Secntence Reading]
+- [Mini-Project 4: Monster Identification]
+- [Mini-Project 5: Monster Diagnosis]
 
 # Homework
-- [Homework 1]()
-- [Homework 2]()
-- [Homework 3]()
-- [Homework 4]()
+- [Homework 1]
+- [Homework 2]
+- [Homework 3]
+- [Homework 4]
 
 # Exams
 - [Exam 1]

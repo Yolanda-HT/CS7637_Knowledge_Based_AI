@@ -1,6 +1,7 @@
 # Ignore homework solution related files
 Tricky_questions.md
 /x_Assignments/*
+/x_Written_Assignments/*
 /x_Projects/*
 /z_CS7637_Lectures/*
 

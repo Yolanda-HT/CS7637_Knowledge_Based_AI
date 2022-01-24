@@ -1,0 +1,13 @@
+name: KBAI
+channels:
+    - defaults
+dependencies:
+    - python=3.8.0
+    - numpy=1.19.1
+    - pip
+    - pip:
+        - matplotlib
+        - jupyter
+        - opencv-contrib-python-headless==4.2.0.*
+        - Pillow==8.1.0
+

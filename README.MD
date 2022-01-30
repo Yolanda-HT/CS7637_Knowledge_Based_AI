@@ -1,4 +1,5 @@
 # OMS CS7637: [Knowledge-Based AI](https://lucylabs.gatech.edu/kbai/spring-2022/)
+> SP2022 | Yolanda's notes
 
 # Resources
 - [Ed Lessons](https://edstem.org/us/dashboard)

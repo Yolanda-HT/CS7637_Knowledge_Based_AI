@@ -16,11 +16,13 @@
 - [Artificial Intelligence: A Modern Approach (Stuart Russell & Peter Norvig)](http://aima.cs.berkeley.edu/)
 
 # Dues
-- Jan 17 8:00AM, Start-of-course Survey
-- June 24 8:00AM, RPM Milestone 1
-- **>>>CURRENT<<<** Jan 31 8:00AM, Mini-Project 1
-- Feb 7 8:00 AM, Homework 1
-- Feb 14, 8:00 AM, Mini-Project 2
+| Current | Date | Time | Info |
+| --- | --- | --- | --- |
+| | Jan 17 | 8:00AM | Start-of-course Survey |
+| | June 24 | 8:00AM | RPM Milestone 1 |
+| **>>>CURRENT<<<** | Jan 31 | 8:00AM | Mini-Project 1 |
+| | Feb 7 | 8:00 AM | Homework 1 |
+| | Feb 14 | 8:00 AM | Mini-Project 2 |
 
 # RPM Project (Raven’s Progressive Matrices)
 [Project overview](https://lucylabs.gatech.edu/kbai/spring-2022/milestone-1/)

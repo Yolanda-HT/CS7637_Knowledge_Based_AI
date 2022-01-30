@@ -1,4 +1,4 @@
-# OMS CS7637: Knowledge-Based AI
+# OMS CS7637: [Knowledge-Based AI](https://lucylabs.gatech.edu/kbai/)
 [Ed Lessons](https://edstem.org/us/dashboard)
 
 # Resources

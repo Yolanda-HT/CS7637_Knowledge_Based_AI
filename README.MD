@@ -17,10 +17,17 @@
 
 # Dues
 - Jan 17 8:00AM, Start-of-course Survey
-- **>>>CURRENT<<<** June 24 8:00AM, RPM Milestone 1
+- June 24 8:00AM, [RPM Milestone 1](https://lucylabs.gatech.edu/kbai/spring-2022/milestone-1/)
 	- [Gradescope (Codes)](https://www.gradescope.com/courses/350049)
 	- [Written Asssignment (JDF)](https://gatech.instructure.com/courses/234528/assignments)
-
+- **>>>CURRENT<<<** Jan 31 8:00AM, [Mini-Project 1](https://lucylabs.gatech.edu/kbai/spring-2022/mini-project-1/)
+	- [Gradescope (Codes)](https://www.gradescope.com/courses/350049)
+	- [Written Assignment (JDF)](https://gatech.instructure.com/courses/234528/assignments/964708)
+- Feb 7 8:00 AM, [Homework 1](https://lucylabs.gatech.edu/kbai/spring-2022/homework-1/)
+	- [Written Assignment (JDF)](https://gatech.instructure.com/courses/234528/assignments/964694)
+- Feb 14, 8:00 AM, [Mini-Project 2](https://lucylabs.gatech.edu/kbai/spring-2022/mini-project-2/)
+	- [Gradescope (Codes)](https://www.gradescope.com/courses/350049)
+	- [Written Assignment (JDF)](https://gatech.instructure.com/courses/234528/assignments/964712)
 
 # RPM Project (Raven’s Progressive Matrices)
 [Project overview](https://lucylabs.gatech.edu/kbai/spring-2022/milestone-1/)

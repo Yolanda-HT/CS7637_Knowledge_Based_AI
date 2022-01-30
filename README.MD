@@ -1,7 +1,7 @@
-# OMS CS7637: [Knowledge-Based AI](https://lucylabs.gatech.edu/kbai/spring-2022/) Spring 2022
-[Ed Lessons](https://edstem.org/us/dashboard)
+# OMS CS7637: [Knowledge-Based AI](https://lucylabs.gatech.edu/kbai/spring-2022/)
 
 # Resources
+- [Ed Lessons](https://edstem.org/us/dashboard)
 - [Course Description](https://lucylabs.gatech.edu/kbai/)
 - [Lecture Materials](https://edstem.org/us/courses/16992/lessons/)
 - [Canvas](https://gatech.instructure.com/courses/234528)
